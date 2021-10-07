@@ -1,0 +1,1 @@
+This is ktmocha's first git projectt!
